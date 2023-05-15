@@ -1,4 +1,4 @@
-module github.com/xor111xor/go-project-struct
+module github.com/xor111xor/go-project-struct/v2
 
 go 1.20
 

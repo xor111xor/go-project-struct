@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/xor111xor/go-project-struct/internal/file"
+	"github.com/xor111xor/go-project-struct/v2/internal/file"
 )
 
 type Storage struct {

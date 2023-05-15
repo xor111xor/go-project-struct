@@ -5,7 +5,7 @@ import (
 	"log"
 
 	// "github.com/google/uuid"
-	"github.com/xor111xor/go-project-struct/internal/storage"
+	"github.com/xor111xor/go-project-struct/v2/internal/storage"
 )
 
 func main() {
